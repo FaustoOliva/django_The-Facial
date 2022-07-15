@@ -1,0 +1,1 @@
+web: gunicorn modyloDjango.wsgi --log-file -
