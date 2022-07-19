@@ -1,1 +1,1 @@
-web: gunicorn modyloDjango.wsgi --log-file -
+web: gunicorn moduloDjango.wsgi 
